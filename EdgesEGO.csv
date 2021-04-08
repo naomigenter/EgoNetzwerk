@@ -1,0 +1,17 @@
+from,to,weight,relationship
+L,J,3,3
+L,K,2,1
+L,A,2,1
+L,B,3,2
+J,L,3,3
+J,K,1,4
+J,A,1,4
+J,B,1,4
+K,L,2,1
+K,J,1,4
+A,L,2,1
+A,J,1,4
+A,B,1,4
+B,L,3,2
+B,J,1,4
+B,A,1,4
